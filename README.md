@@ -3,5 +3,3 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1371165111418491081/1525720524741804042/ALS_5.png?ex=6a546977&is=6a5317f7&hm=f77d41984d709c066b90193a3ff6f20b22b968ea9ea16f79f41c629a679267db&" width="150" alt="Zyn Logo">
 </p>
-
-<h1 align="center">Zyn</h1>
